@@ -1,0 +1,10 @@
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/classes/debug
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-5c3eb70b57859c75c7a27e70cee70709b060b059.jar
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/MPactClient-5a0ffbee58c36d99d646ef453f346beb75b642c1.jar
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/libjingle_peerconnection-562eae19f5839d797319bc7a7762ee6db82ead50.jar
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/classes-9061b6eb54d993f96eedc8ce9ee3037e3330f0cb.jar
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/gson-2.3-827b03ac466eea69671b5d185ef3cd2b47aa3b11.jar
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-112451a926d842672f2943201c7597b5934f0d91.jar
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/acisionsdk-6a6425a4c0f5b524cf1453cdf7b4a551394bde82.jar
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/classes-e1d50046f43bacee9c5d7efda6fe08cab6d01d5e.jar
+/home/kashyap/Documents/hackathon/MPact_SDK_Android/MPactNotify/build/intermediates/pre-dexed/debug/classes-a04acb75e704e2049aeae37a24dc3e17596e1bf5.jar

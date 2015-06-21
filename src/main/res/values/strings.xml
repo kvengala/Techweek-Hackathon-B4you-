@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">B4You</string>
+
+    <string name="readme">This app will generate notifications about the region state
+        even if the app is killed.
+        The app will also auto-launch in the background on boot.</string>
+    <string name="action_settings">Settings</string>
+    <integer name="google_play_services_version">2</integer>
+
+</resources>
